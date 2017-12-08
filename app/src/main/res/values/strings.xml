@@ -1,0 +1,359 @@
+<resources>
+    <string name="app_name">Alpha Omega Epsilon</string>
+    <string name="app_developer">App by Danjuree Developers</string>
+
+    <!-- String of Organization Information -->
+    <string name="business_name">Alpha Omega Epsilon</string>
+    <string name="organization_website">http://alphaomegaepsilon.org</string>
+    <string name="organization_copyright">\u00A9 2016 Alpha Omega Epsilon</string>
+
+    <!-- Main Activity Strings -->
+    <string name="main_welcome">Welcome!</string>
+    <string name="main_description">Alpha Omega Epsilon is a professional and social sorority
+        composed of female engineering and technical science students and alumnae. Founded on
+        November 13, 1983, the sorority promotes ideals and objectives that further the advancement
+        of female engineers and technical scientists and builds a foundation for lifelong bonds
+        of sisterhood.</string>
+    <string name="main_what_we_do">Alpha Omega Epsilon prohibits discrimination against and
+        harassment of any member or potential new member because of race, color, national or
+        ethnic origin, age, religion, disability, sexual orientation, gender identity and
+        expression, veteran status or any other characteristic protected under federal or
+        applicable state law.</string>
+    <string name="main_find_us_title">Find A Chapter</string>
+    <string name="main_find_us">See where our chapters and colonies are located or search for a
+        chapter near you.</string>
+    <string name="main_volunteer_title">Get Involved</string>
+    <string name="main_volunteer">Find out how you can make an impact and build your resume by
+        becoming a volunteer.</string>
+    <string name="main_contact_us_title">Stay In Touch</string>
+    <string name="main_contact_us">Log in to update your contact information, find a sister, or
+        read The Angle.</string>
+
+    <!-- Content Descriptions -->
+    <string name="content_logo">Logo</string>
+    <string name="content_carnation">Carnation</string>
+    <string name="content_rose">Rose</string>
+    <string name="content_lily">Calla Lily</string>
+
+    <!-- Chapter Info Strings -->
+    <!-- ALPHA CHAPTER -->
+    <string name="alphaChapter">Alpha Chapter</string>
+    <string name="alphaEmail">alpha@alphaomegaepsilon.org</string>
+    <string name="alphaCollege">Marquette University</string>
+    <string name="alphaCity">Milwaukee</string>
+    <string name="alphaFounded">November 13, 1983</string>
+    <string name="alphaWebsite">http://alphaaoe.wix.com/alphachapter</string>
+    <!-- BETA CHAPTER -->
+    <string name="betaChapter">Beta Chapter</string>
+    <string name="betaEmail">beta@alphaomegaepsilon.org</string>
+    <string name="betaCollege">South Dakota School of Mines and Technology</string>
+    <string name="betaCity">Rapid City</string>
+    <string name="betaFounded">January 1, 1985</string>
+    <string name="betaWebsite">http://sdsmt.collegiatelink.net/organization/alphaomegaepsilon</string>
+    <!-- GAMMA CHAPTER -->
+    <string name="gammaChapter">Gamma Chapter</string>
+    <string name="gammaEmail">gamma@alphaomegaepsilon.org</string>
+    <string name="gammaCollege">North Carolina State University</string>
+    <string name="gammaCity">Raleigh</string>
+    <string name="gammaFounded">April 20, 1991</string>
+    <string name="gammaWebsite">http://www.aoegamma.com</string>
+    <!-- DELTA CHAPTER -->
+    <string name="deltaChapter">Delta Chapter</string>
+    <string name="deltaEmail">delta@alphaomegaepsilon.org</string>
+    <string name="deltaCollege">Milwaukee School of Engineering</string>
+    <string name="deltaCity">Milwaukee</string>
+    <string name="deltaFounded">August 1, 1992</string>
+    <string name="deltaWebsite">http://aomegae-delta.weebly.com</string>
+    <!-- EPSILON CHAPTER -->
+    <string name="epsilonChapter">Epsilon Chapter</string>
+    <string name="epsilonEmail">epsilon@alphaomegaepsilon.org</string>
+    <string name="epsilonCollege">University of Southern California</string>
+    <string name="epsilonCity">Los Angeles</string>
+    <string name="epsilonFounded">October 11, 1996</string>
+    <string name="epsilonWebsite">http://aoeusc.wordpress.com/about</string>
+    <!-- ZETA CHAPTER -->
+    <string name="zetaChapter">Zeta Chapter</string>
+    <string name="zetaEmail">zeta@alphaomegaepsilon.org</string>
+    <string name="zetaCollege">Syracuse University</string>
+    <string name="zetaCity">Syracuse</string>
+    <string name="zetaFounded">April 26, 1997</string>
+    <string name="zetaWebsite">http://aoepsln.wix.com/zeta</string>
+    <!-- ETA CHAPTER -->
+    <string name="etaChapter">Eta Chapter</string>
+    <string name="etaEmail">eta@alphaomegaepsilon.org</string>
+    <string name="etaCollege">University of British Columbia</string>
+    <string name="etaCity">Vancouver</string>
+    <string name="etaFounded">February 21, 1998</string>
+    <string name="etaWebsite">http://aoe-eta.ca</string>
+    <!-- THETA CHAPTER -->
+    <string name="thetaChapter">Theta Chapter</string>
+    <string name="thetaEmail">theta@alphaomegaepsilon.org</string>
+    <string name="thetaCollege">University of Illinois at Urbana-Champaign</string>
+    <string name="thetaCity">Urbana-Champaign</string>
+    <string name="thetaFounded">February 27, 1999</string>
+    <string name="thetaWebsite">http://www.aoetheta.org</string>
+    <!-- IOTA CHAPTER -->
+    <string name="iotaChapter">Iota Chapter</string>
+    <string name="iotaEmail">iota@alphaomegaepsilon.org</string>
+    <string name="iotaCollege">University of Michigan at Dearborn</string>
+    <string name="iotaCity">Dearborn</string>
+    <string name="iotaFounded">April 1, 2000</string>
+    <string name="iotaWebsite">http://aoe.umd.umich.edu</string>
+    <!-- KAPPA CHAPTER -->
+    <string name="kappaChapter">Kappa Chapter</string>
+    <string name="kappaEmail">kappa@alphaomegaepsilon.org</string>
+    <string name="kappaCollege">North Dakota State University</string>
+    <string name="kappaCity">Fargo</string>
+    <string name="kappaFounded">April 28, 2001</string>
+    <string name="kappaWebsite">inactive</string>
+    <!-- LAMBDA CHAPTER -->
+    <string name="lambdaChapter">Lambda Chapter</string>
+    <string name="lambdaEmail">lambda@alphaomegaepsilon.org</string>
+    <string name="lambdaCollege">Ohio State University</string>
+    <string name="lambdaCity">Columbus</string>
+    <string name="lambdaFounded">June 2, 2001</string>
+    <string name="lambdaWebsite">inactive</string>
+    <!-- MU CHAPTER -->
+    <string name="muChapter">Mu Chapter</string>
+    <string name="muEmail">mu@alphaomegaepsilon.org</string>
+    <string name="muCollege">Northern Illinois University</string>
+    <string name="muCity">Dekalb</string>
+    <string name="muFounded">March 28, 2004</string>
+    <string name="muWebsite">http://aoemuniu.wixsite.com/aoe-mu</string>
+    <!-- NU CHAPTER -->
+    <string name="nuChapter">Nu Chapter</string>
+    <string name="nuEmail">nu@alphaomegaepsilon.org</string>
+    <string name="nuCollege">University of Delaware</string>
+    <string name="nuCity">Newark</string>
+    <string name="nuFounded">April 3, 2004</string>
+    <string name="nuWebsite">http://sites.udel.edu/aoenuchapter</string>
+    <!-- XI CHAPTER -->
+    <string name="xiChapter">Xi Chapter</string>
+    <string name="xiEmail">xi@alphaomegaepsilon.org</string>
+    <string name="xiCollege">Clemson University</string>
+    <string name="xiCity">Clemson</string>
+    <string name="xiFounded">August 21, 2004</string>
+    <string name="xiWebsite">http://www.facebook.com/groups/aoeclemson</string>
+    <!-- OMICRON CHAPTER -->
+    <string name="omicronChapter">Omicron Chapter</string>
+    <string name="omicronEmail">omicron@alphaomegaepsilon.org</string>
+    <string name="omicronCollege">University of Wisconsin at Madison</string>
+    <string name="omicronCity">Madison</string>
+    <string name="omicronFounded">December 12, 2004</string>
+    <string name="omicronWebsite">http://www.aoemadison.weebly.com</string>
+    <!-- PI CHAPTER -->
+    <string name="piChapter">Pi Chapter</string>
+    <string name="piEmail">pi@alphaomegaepsilon.org</string>
+    <string name="piCollege">University of Virginia</string>
+    <string name="piCity">Charlottesville</string>
+    <string name="piFounded">April 23, 2005</string>
+    <string name="piWebsite">http://alphaomegaepsilonatuva.com</string>
+    <!-- RHO CHAPTER -->
+    <string name="rhoChapter">Rho Chapter</string>
+    <string name="rhoEmail">rho@alphaomegaepsilon.org</string>
+    <string name="rhoCollege">Virginia Polytechnic Institute and State University</string>
+    <string name="rhoCity">Blacksburg</string>
+    <string name="rhoFounded">January 22, 2006</string>
+    <string name="rhoWebsite">http://www.aoe.org.vt.edu</string>
+    <!-- SIGMA CHAPTER -->
+    <string name="sigmaChapter">Sigma Chapter</string>
+    <string name="sigmaEmail">sigma@alphaomegaepsilon.org</string>
+    <string name="sigmaCollege">Georgia Institute of Technology</string>
+    <string name="sigmaCity">Atlanta</string>
+    <string name="sigmaFounded">February 4, 2006</string>
+    <string name="sigmaWebsite">http://www.gtaoe.org</string>
+    <!-- TAU CHAPTER -->
+    <string name="tauChapter">Tau Chapter</string>
+    <string name="tauEmail">tau@alphaomegaepsilon.org</string>
+    <string name="tauCollege">Rensselaer Polytechnic Institute</string>
+    <string name="tauCity">Troy</string>
+    <string name="tauFounded">April 23, 2006</string>
+    <string name="tauWebsite">http://rpialphaomegaepsilon.com</string>
+    <!-- UPSILON CHAPTER -->
+    <string name="upsilonChapter">Upsilon Chapter</string>
+    <string name="upsilonEmail">upsilon@alphaomegaepsilon.org</string>
+    <string name="upsilonCollege">University of Maryland</string>
+    <string name="upsilonCity">College Park</string>
+    <string name="upsilonFounded">April 30, 2006</string>
+    <string name="upsilonWebsite">http://aoeupsilon.weebly.com</string>
+    <!-- PHI CHAPTER -->
+    <string name="phiChapter">Phi Chapter</string>
+    <string name="phiEmail">phi@alphaomegaepsilon.org</string>
+    <string name="phiCollege">Lamar University</string>
+    <string name="phiCity">Beaumont</string>
+    <string name="phiFounded">November 17, 2007</string>
+    <string name="phiWebsite">http://www.facebook.com/AlphaOmegaEpsilonLamarU</string>
+    <!-- CHI CHAPTER -->
+    <string name="chiChapter">Chi Chapter</string>
+    <string name="chiEmail">chi@alphaomegaepsilon.org</string>
+    <string name="chiCollege">George Washington University</string>
+    <string name="chiCity">Washington</string>
+    <string name="chiFounded">March 29, 2008</string>
+    <string name="chiWebsite">http://aoegwu.tumblr.com</string>
+    <!-- PSI CHAPTER -->
+    <string name="psiChapter">Psi Chapter</string>
+    <string name="psiEmail">psi@alphaomegaepsilon.org</string>
+    <string name="psiCollege">Binghamton University</string>
+    <string name="psiCity">Vestal</string>
+    <string name="psiFounded">March 21, 2009</string>
+    <string name="psiWebsite">http://www.binghamtonaoe.org</string>
+    <!-- OMEGA CHAPTER -->
+    <string name="omegaChapter">Omega Chapter</string>
+    <string name="omegaEmail">omega@alphaomegaepsilon.org</string>
+    <string name="omegaCollege">South Dakota State University</string>
+    <string name="omegaCity">Brookings</string>
+    <string name="omegaFounded">January 23, 2010</string>
+    <string name="omegaWebsite">http://sites.google.com/site/aoeomega/home</string>
+    <!-- BETA ALPHA CHAPTER -->
+    <string name="betaAlphaChapter">Beta Alpha Chapter</string>
+    <string name="betaAlphaEmail">betaalpha@alphaomegaepsilon.org</string>
+    <string name="betaAlphaCollege">Texas Tech University</string>
+    <string name="betaAlphaCity">Lubbock</string>
+    <string name="betaAlphaFounded">April 25, 2010</string>
+    <string name="betaAlphaWebsite">http://www.orgs.ttu.edu/aoe</string>
+    <!-- BETA BETA CHAPTER -->
+    <string name="betaBetaChapter">Beta Beta Chapter</string>
+    <string name="betaBetaEmail">betabeta@alphaomegaepsilon.org</string>
+    <string name="betaBetaCollege">University of British Columbia - Okanagan</string>
+    <string name="betaBetaCity">Kelowna</string>
+    <string name="betaBetaFounded">March 26, 2011</string>
+    <string name="betaBetaWebsite">http://www.ubcoaoe.com</string>
+    <!-- BETA GAMMA CHAPTER -->
+    <string name="betaGammaChapter">Beta Gamma Chapter</string>
+    <string name="betaGammaEmail">betagamma@alphaomegaepsilon.org</string>
+    <string name="betaGammaCollege">San Diego State University</string>
+    <string name="betaGammaCity">San Diego</string>
+    <string name="betaGammaFounded">December 3, 2011</string>
+    <string name="betaGammaWebsite">http://www.sdsuaoe.com</string>
+    <!-- BETA DELTA CHAPTER -->
+    <string name="betaDeltaChapter">Beta Delta Chapter</string>
+    <string name="betaDeltaEmail">betadelta@alphaomegaepsilon.org</string>
+    <string name="betaDeltaCollege">Florida Atlantic University</string>
+    <string name="betaDeltaCity">Boca Raton</string>
+    <string name="betaDeltaFounded">January 21, 2012</string>
+    <string name="betaDeltaWebsite">http://alphaomegaepsilonfau.blogspot.com</string>
+    <!-- BETA EPSILON CHAPTER -->
+    <string name="betaEpsilonChapter">Beta Epsilon Chapter</string>
+    <string name="betaEpsilonEmail">betaepsilon@alphaomegaepsilon.org</string>
+    <string name="betaEpsilonCollege">University of Pennsylvania</string>
+    <string name="betaEpsilopnCity">Philadelphia</string>
+    <string name="betaEpsilonFounded">January 28, 2012</string>
+    <string name="betaEpsilonWebsite">http://www.upennaoe.com</string>
+    <!-- BETA ZETA CHAPTER -->
+    <string name="betaZetaChapter">Beta Zeta Chapter</string>
+    <string name="betaZetaEmail">betazeta@alphaomegaepsilon.org</string>
+    <string name="betaZetaCollege">University of Missouri</string>
+    <string name="betaZetaCity">Columbia</string>
+    <string name="betaZetaFounded">April 21, 2012</string>
+    <string name="betaZetaWebsite">http://www.alphaomegaepsilon-betazeta.com</string>
+    <!-- BETA ETA CHAPTER -->
+    <string name="betaEtaChapter">Beta Eta Chapter</string>
+    <string name="betaEtaEmail">betaeta@alphaomegaepsilon.org</string>
+    <string name="betaEtaCollege">West Virginia University</string>
+    <string name="betaEtaCity">Morgantown</string>
+    <string name="betaEtaFounded">August 25, 2012</string>
+    <string name="betaEtaWebsite">http://aoe.studentorgs.wvu.edu</string>
+    <!-- BETA THETA CHAPTER -->
+    <string name="betaThetaChapter">Beta Theta Chapter</string>
+    <string name="betaThetaEmail">betatheta@alphaomegaepsilon.org</string>
+    <string name="betaThetaCollege">Stony Brook University</string>
+    <string name="betaThetaCity">Stony Brook</string>
+    <string name="betaThetaFounded">November 10, 2012</string>
+    <string name="betaThetaWebsite">http://sbuaoe.wordpress.com</string>
+    <!-- BETA IOTA CHAPTER -->
+    <string name="betaIotaChapter">Beta Iota Chapter</string>
+    <string name="betaIotaEmail">betaiota@alphaomegaepsilon.org</string>
+    <string name="betaIotaCollege">California Polytehnic State University, San Luis Obispo</string>
+    <string name="betaIotaCity">San Luis Obispo</string>
+    <string name="betaIotaFounded">December 1, 2012</string>
+    <string name="betaIotaWebsite">http://calpolyalphaomegaepsilon.com</string>
+    <!-- BETA KAPPA CHAPTER -->
+    <string name="betaKappaChapter">Beta Kappa Chapter</string>
+    <string name="betaKappaEmail">betakappa@alphaomegaepsilon.org</string>
+    <string name="betaKappaCollege">University of North Carolina Charlotte</string>
+    <string name="betaKappaCity">Charlotte</string>
+    <string name="betaKappaFounded">January 26, 2013</string>
+    <string name="betaKappaWebsite">http://aoeuncc.wix.com/alphaomegaepsilon</string>
+    <!-- BETA LAMBDA CHAPTER -->
+    <string name="betaLambdaChapter">Beta Lambda Chapter</string>
+    <string name="betaLambdaEmail">betalambda@alphaomegaepsilon.org</string>
+    <string name="betaLambdaCollege">Lehigh University</string>
+    <string name="betaLambdaCity">Bethlehem</string>
+    <string name="betaLambdaFounded">February 22, 2014</string>
+    <string name="betaLambdaWebsite">http://aoebetalambdalehigh.wix.com/luaoe</string>
+    <!-- BETA MU CHAPTER -->
+    <string name="betaMuChapter">Beta Mu Chapter</string>
+    <string name="betaMuEmail">betamu@alphaomegaepsilon.org</string>
+    <string name="betaMuCollege">Drexel University</string>
+    <string name="betaMuCity">Philadelphia</string>
+    <string name="betaMuFounded">March 1, 2014</string>
+    <string name="betaMuWebsite">http://www.facebook.com/aoe.drexel</string>
+    <!-- BETA NU CHAPTER -->
+    <string name="betaNuChapter">Beta Nu Chapter</string>
+    <string name="betaNuEmail">betanu@alphaomegaepsilon.org</string>
+    <string name="betaNuCollege">Auburn University</string>
+    <string name="betaNuCity">Auburn</string>
+    <string name="betaNuFounded">March 30, 2014</string>
+    <string name="betaNuWebsite">http://auburnaoe.com</string>
+    <!-- BETA XI CHAPTER -->
+    <string name="betaXiChapter">Beta Xi Chapter</string>
+    <string name="betaXiEmail">betaxi@alphaomegaepsilon.org</string>
+    <string name="betaXiCollege">Washington University</string>
+    <string name="betaXiCity">St. Louis</string>
+    <string name="betaXiFounded">April 19, 2014</string>
+    <string name="betaXiWebsite">http://aoeatwashu.com</string>
+    <!-- BETA OMICRON CHAPTER -->
+    <string name="betaOmicronChapter">Beta Omicron Chapter</string>
+    <string name="betaOmicronEmail">betaomicron@alphaomegaepsilon.org</string>
+    <string name="betaOmicronCollege">Rutgers University</string>
+    <string name="betaOmicronCity">New Brunswick</string>
+    <string name="betaOmicronFounded">May 3, 2014</string>
+    <string name="betaOmicronWebsite">http://www.facebook.com/RutgersAOE</string>
+    <!-- BETA PI CHAPTER -->
+    <string name="betaPiChapter">Beta Pi Chapter</string>
+    <string name="betaPiEmail">betapi@alphaomegaepsilon.org</string>
+    <string name="betaPiCollege">Oklahoma State University</string>
+    <string name="betaPiCity">Stillwater</string>
+    <string name="betaPiFounded">April 11, 2015</string>
+    <string name="betaPiWebsite">http://www.facebook.com/A.O.E.okstate</string>
+    <!-- BETA RHO CHAPTER -->
+    <string name="betaRhoChapter">Beta Rho Chapter</string>
+    <string name="betaRhoEmail">betarho@alphaomegaepsilon.org</string>
+    <string name="betaRhoCollege">University of Alabama</string>
+    <string name="betaRhoCity">Tuscaloosa</string>
+    <string name="betaRhoFounded">January 23, 2016</string>
+    <string name="betaRhoWebsite">http://www.facebook.com/alphaomegaepsilonUA</string>
+    <!-- BETA SIGMA CHAPTER -->
+    <string name="betaSigmaChapter">Beta Sigma Chapter</string>
+    <string name="betaSigmaEmail">betasigma@alphaomegaepsilon.org</string>
+    <string name="betaSigmaCollege">New York University</string>
+    <string name="betaSigmaCity">New York</string>
+    <string name="betaSigmaFounded">February 27, 2016</string>
+    <string name="betaSigmaWebsite">http://tinyurl.com/aoebetasigma</string>
+    <!-- BETA TAU CHAPTER -->
+    <string name="betaTauChapter">Beta Tau Chapter</string>
+    <string name="betaTauEmail">betatau@alphaomegaepsilon.org</string>
+    <string name="betaTauCollege">Kansas State University</string>
+    <string name="betaTauCity">Manhattan</string>
+    <string name="betaTauFounded">March 12, 2016</string>
+    <string name="betaTauWebsite">http://facebook.com/AlphaOmegaEpsilonBetatau</string>
+    <!-- BETA UPSILON CHAPTER -->
+    <string name="betaUpsilonChapter">Beta Upsilon Chapter</string>
+    <string name="betaUpsilonEmail">betaupsilon@alphaomegaepsilon.org</string>
+    <string name="betaUpsilonCollege">San Jose State University</string>
+    <string name="betaUpsilonCity">San Jose</string>
+    <string name="betaUpsilonFounded">May 6, 2017</string>
+    <string name="betaUpsilonWebsite">http://aoesjsu.wixsite.com/aoesjsu</string>
+    <!-- BETA PHI CHAPTER -->
+    <string name="betaPhiChapter">Beta Phi Chapter</string>
+    <string name="betaPhiEmail">betaphi@alphaomegaepsilon.org</string>
+    <string name="betaPhiCollege">Widener University</string>
+    <string name="betaPhiCity">Chester</string>
+    <string name="betaPhiFounded">September 23, 2017</string>
+    <string name="betaPhiWebsite">none</string>
+    <!-- CORNELL UNIVERSITY COLONY -->
+    <string name="colonyCornell">Cornell University</string>
+    <string name="colonyCornellCity">Ithaca</string>
+    <string name="colonyCornellFounded">September 30, 2017</string>
+
+</resources>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.danjureedeveloper.alphaomegaepsilon.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Header Linear Layout -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_margin="8dp"
+                android:src="@drawable/aoe_logo"
+                android:contentDescription="@string/content_logo"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@color/colorBlue"/>
+
+        </LinearLayout>
+
+        <!-- Welcome Linear Layout -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorTextDark"
+                android:text="@string/main_welcome"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:textSize="14sp"
+                android:textColor="@color/colorTextDark"
+                android:text="@string/main_description"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:textSize="14sp"
+                android:textColor="@color/colorTextDark"
+                android:text="@string/main_what_we_do"/>
+
+        </LinearLayout>
+
+        <!-- Action Buttons -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!-- Find A Chapter Linear Layout -->
+            <LinearLayout
+                android:id="@+id/main_linear_laout_find_us"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/yellow_circle_carnation"
+                    android:contentDescription="@string/content_carnation"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dp"
+                    android:gravity="center_horizontal"
+                    android:textSize="16sp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorTextDark"
+                    android:text="@string/main_find_us_title"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:textColor="@color/colorTextDark"
+                    android:text="@string/main_find_us"/>
+
+            </LinearLayout>
+
+            <!-- Find A Chapter Linear Layout -->
+            <LinearLayout
+                android:id="@+id/main_linar_layout_find_us"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/yellow_circle_carnation"
+                    android:contentDescription="@string/content_carnation"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dp"
+                    android:gravity="center_horizontal"
+                    android:textSize="16sp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorTextDark"
+                    android:text="@string/main_find_us_title"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:textColor="@color/colorTextDark"
+                    android:text="@string/main_find_us"/>
+
+            </LinearLayout>
+
+            <!-- Find A Chapter Linear Layout -->
+            <LinearLayout
+                android:id="@+id/main_linear_layout_find_us"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/yellow_circle_carnation"
+                    android:contentDescription="@string/content_carnation"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dp"
+                    android:gravity="center_horizontal"
+                    android:textSize="16sp"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorTextDark"
+                    android:text="@string/main_find_us_title"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:textColor="@color/colorTextDark"
+                    android:text="@string/main_find_us"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- Footer Linear Layout -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:background="@color/colorPrimaryDark">
+
+            <TextView
+                style="@style/styleFooter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/organization_copyright"/>
+
+            <TextView
+                style="@style/styleFooter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/app_developer"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
